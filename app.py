@@ -253,7 +253,9 @@ elif page == "Credit":
     st.header("👥 Anggota Kelompok")
     
     st.markdown("""
-    **Teknik Informatika Bilingual 2023** **Mata Kuliah:** Pembelajaran Mesin 251P1  
+    **Teknik Informatika Bilingual 2023** 
+    
+    **Mata Kuliah:** Pembelajaran Mesin 251P1  
     **Dosen Pengampu:** Assoc. Prof. Dian Palupi Rini, M.Kom., Ph.D.
     """)
     
