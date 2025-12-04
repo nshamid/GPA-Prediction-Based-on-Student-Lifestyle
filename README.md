@@ -34,3 +34,8 @@ Dataset terdiri dari 2.000 sampel (baris) data kebiasaan harian siswa, mencakup 
 | **Physical_Activity_Hours_Per_Day** | Jumlah jam aktivitas fisik/olahraga per hari |
 | **GPA** | Target: Indeks Prestasi Kumulatif (Ukuran kinerja akademik) |
 | **Stress_Level** | Tingkat stres siswa (diturunkan dari jam belajar dan jam tidur) |
+
+---
+
+### Model Linear Regression
+Kami memilih Linear Regression karena analisis menunjukkan hubungan yang linear antara jam belajar dan GPA. Model ini juga memudahkan kita untuk melihat faktor mana yang memberikan dampak positif atau negatif terhadap nilai.
