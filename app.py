@@ -266,11 +266,10 @@ elif page == "Credit":
     with col_members[0]:
         st.markdown("""
         1. **Nabilah Shamid** (09021382328147)
-        2. **Saravina Zharfa Kelana Putri** (09021382328149)
-        3. **Indrina Nur Chairunnisya** (09021382328157)
-        4. **Azka Hukma Tsabita** (09021382328159)
-        5. **Shalaisya Fattiha Ramadhani** (09021382328161)
-        6. **Afny Chiara Wildani Nst** (09021382328167)
+        2. **Indrina Nur Chairunnisya** (09021382328157)
+        3. **Azka Hukma Tsabita** (09021382328159)
+        4. **Shalaisya Fattiha Ramadhani** (09021382328161)
+        5. **Afny Chiara Wildani Nst** (09021382328167)
         """)
         
     st.info("Terima kasih telah mencoba aplikasi prediksi kami! 🚀")
